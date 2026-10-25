@@ -1,6 +1,18 @@
-https://bjessief-apps.github.io/Dock-Walk/
-
 # Dock Walk
+
+**Try it:** https://bjessief-apps.github.io/Dock-Walk/ (works best on a phone)
+
+As a lead, the first thing I do every shift is walk the dock and check every door: what's full, what's half done, what's empty. I used to keep it all in my head and then type up the end-of-shift report from memory. Dock Walk lets me tap through the doors as I walk, then run the whole shift from one board and build the report at the end, almost without typing.
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/1-walk.png" width="220" alt="Walk the doors"><br><sub>Walk the doors</sub></td>
+    <td align="center"><img src="screenshots/2-board.png" width="220" alt="Run the board"><br><sub>Run the board</sub></td>
+    <td align="center"><img src="screenshots/3-eod.png" width="220" alt="End-of-shift report"><br><sub>End-of-shift report</sub></td>
+  </tr>
+</table>
+
+<sub>Screenshots show the app's built-in sample shift with made-up names and numbers.</sub>
 
 A phone-first board for running a dock walk: log each door's container status as you walk the doors, then track crew assignments, progress, and start and finish times through the shift.
 
