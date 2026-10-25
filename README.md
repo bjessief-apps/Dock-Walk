@@ -2,7 +2,7 @@
 
 **Try it:** https://bjessief-apps.github.io/Dock-Walk/ (works best on a phone)
 
-As a lead, the first thing I do every shift is walk the dock and check every door: what's full, what's half done, what's empty. I used to keep it all in my head and then type up the end-of-shift report from memory. Dock Walk lets me tap through the doors as I walk, then run the whole shift from one board and build the report at the end, almost without typing.
+As a lead, the first thing I do every shift is walk the dock and check every door: what's full, what's half done, what's empty. I used to jot it all down in a notebook or in text notes on my phone. I wanted one organized place for the info I track every day, that also shows me at a glance how the shift is moving along. Dock Walk lets me tap through the doors as I walk, run the shift from one board, and build the end-of-shift report from what's already there, with almost no typing.
 
 <table>
   <tr>
